@@ -14,7 +14,6 @@ Hi, I'm Rijas — currently working toward becoming a SOC Analyst through self-d
 
 \- Threat detection \& analysis
 
-\- (Add more as you learn them)
 
 
 
