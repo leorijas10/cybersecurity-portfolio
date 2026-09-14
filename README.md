@@ -9,18 +9,17 @@ This repository documents my progress as I develop practical cybersecurity skill
 
 
 
-**Skills demonstrated:**
+## Skills
 
-- Security controls assessment
+- Cybersecurity fundamentals
+- Network security fundamentals
+- Threat detection & analysis
 - Risk assessment
-- Risk identification
-- Risk prioritization
-- Access control
-- Least privilege
-- Data protection
-- Security recommendations
-- Compliance concepts
-
+- Security controls
+- Incident response fundamentals
+- Security monitoring
+- SIEM fundamentals
+- Linux fundamentals
 
 
 ## Projects
@@ -38,19 +37,17 @@ A cybersecurity security audit and risk assessment project based on a fictional 
 
 **Skills demonstrated:**
 
+- Security controls assessment
 - Risk assessment
-- Security controls evaluation
-- NIST Cybersecurity Framework concepts
+- Risk identification
+- Risk prioritization
 - Access control
 - Least privilege
 - Data protection
-- Encryption
-- Password security
-- Backup and disaster recovery
-- PCI DSS concepts
-- GDPR concepts
 - Security recommendations
+- Compliance concepts
 
+  
 **Project:** [View Project](./botium-toys-security-audit/)
 
 ## Certifications & Learning
