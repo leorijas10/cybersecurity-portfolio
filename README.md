@@ -9,18 +9,17 @@ This repository documents my progress as I develop practical cybersecurity skill
 
 
 
-## Skills
+**Skills demonstrated:**
 
-- Cybersecurity fundamentals
-- Network security fundamentals
-- Threat detection & analysis
+- Security controls assessment
 - Risk assessment
-- Security controls
-- Incident response
-- Security monitoring
-- Linux fundamentals
-- SIEM fundamentals
-
+- Risk identification
+- Risk prioritization
+- Access control
+- Least privilege
+- Data protection
+- Security recommendations
+- Compliance concepts
 
 
 
