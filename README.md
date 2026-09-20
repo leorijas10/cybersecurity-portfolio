@@ -28,9 +28,6 @@ This repository documents my progress as I develop practical cybersecurity skill
 
 
 
-
-## Projects
-
 ### 1. Botium Toys — Security Audit & Risk Assessment
 
 A cybersecurity security audit and risk assessment project based on a fictional organization.
