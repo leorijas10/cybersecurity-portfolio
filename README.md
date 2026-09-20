@@ -69,3 +69,4 @@ Projects in this repository may include fictional scenarios created for educatio
 
 The work is documented as part of my personal cybersecurity learning portfolio.
 
+- [Incident Report: ICMP Flood DoS (NIST CSF)](incident-reports/incident-report-nist-csf.pdf) - Analysis of a DoS attack using the NIST Cybersecurity Framework. Completed as part of the Google Cybersecurity Certificate.
