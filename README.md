@@ -45,7 +45,7 @@ A cybersecurity security audit and risk assessment project based on a fictional 
 - Compliance concepts
 
   
-**Project:** [View Project](./botium-toys-security-audit/)
+**Project:** [Controls & Compliance](controls-and-compliance.md) | [Risk Assessment](risk-assesment.md)
 
 - [Incident Report: ICMP Flood DoS (NIST CSF)](incident-reports/incident-report-nist-csf.pdf) - Analysis of a DoS attack using the NIST Cybersecurity Framework. Completed as part of the Google Cybersecurity Certificate.
 
