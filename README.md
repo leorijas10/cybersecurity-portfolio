@@ -57,7 +57,7 @@ A cybersecurity security audit and risk assessment project based on a fictional 
 ## Certifications & Learning
 
 - Google Cybersecurity Professional Certificate — In Progress
-- CompTIA Security+ — In Progress
+- CompTIA Security+ — "Studying for"
 
 ## Career Goal
 
@@ -72,5 +72,7 @@ I am continuously adding hands-on projects, labs, and security-related work to t
 Projects in this repository may include fictional scenarios created for educational purposes.
 
 The work is documented as part of my personal cybersecurity learning portfolio.
+
+###email : leorijas10@gmail.com
 
 
