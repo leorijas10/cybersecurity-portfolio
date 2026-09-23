@@ -65,7 +65,7 @@ permissions in Linux using `chmod`, `ls -l`, and `ls -la`.
 - Restricted directory access using `chmod` on a folder
 
 ### Full write-up
-📄 [View the full report (PDF)] File permissions in Linux.pdf
+📄 [View the full report (PDF)]https://github.com/leorijas10/cybersecurity-portfolio/blob/352b0ac834f2399757e52fe73ff9048764fb8b2d/File%20permissions%20in%20Linux.pdf
 
 ### Skills demonstrated
 - Linux command line (chmod, ls, cd, mv, mkdir)
