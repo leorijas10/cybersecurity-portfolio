@@ -53,6 +53,25 @@ A cybersecurity security audit and risk assessment project based on a fictional 
 - [Incident Report: ICMP Flood DoS (NIST CSF)](incident-reports/incident-report-nist-csf.pdf) - Analysis of a DoS attack using the NIST Cybersecurity Framework. Completed as part of the Google Cybersecurity Certificate.
 
 
+## Linux File Permissions Project
+
+A hands-on project demonstrating how to check and modify file and directory 
+permissions in Linux using `chmod`, `ls -l`, and `ls -la`.
+
+### What I did
+- Checked file/directory permissions using `ls -l` and `ls -la`
+- Modified group permissions on a project file using `chmod`
+- Secured a hidden file by removing write access
+- Restricted directory access using `chmod` on a folder
+
+### Full write-up
+📄 [View the full report (PDF)] 
+
+### Skills demonstrated
+- Linux command line (chmod, ls, cd, mv, mkdir)
+- Understanding of Linux permission strings (rwx, owner/group/other)
+- Principle of least privilege
+
 
 ## Certifications & Learning
 
