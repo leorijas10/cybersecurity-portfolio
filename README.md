@@ -76,7 +76,7 @@ permissions in Linux using `chmod`, `ls -l`, and `ls -la`.
 
 Applied SQL filtering techniques to investigate security-related data in the "log_in_attempts" and "employees" tables.
 
-###Skills Demonstrated
+### Skills Demonstrated
 
 - Used "AND" to filter records meeting multiple conditions.
 - Used "OR" to search for records matching multiple possible conditions.
@@ -85,7 +85,7 @@ Applied SQL filtering techniques to investigate security-related data in the "lo
 - Used comparison operators to identify after-hours failed login attempts.
 - Filtered employee records by department and office location.
 
-###Security Investigation Examples
+### Security Investigation Examples
 
 - Identified failed login attempts after business hours.
 - Retrieved login attempts from specific dates related to a suspicious event.
@@ -93,7 +93,7 @@ Applied SQL filtering techniques to investigate security-related data in the "lo
 - Filtered employees by department and office location.
 - Identified employees outside the Information Technology department.
 
-- Apply filters to SQL queries.pdf
+  [View Project →](./Apply%20filters%20to%20SQL%20queries.pdf)
 
 
 
