@@ -93,6 +93,8 @@ Applied SQL filtering techniques to investigate security-related data in the "lo
 - Filtered employees by department and office location.
 - Identified employees outside the Information Technology department.
 
+- Apply filters to SQL queries.pdf
+
 
 
 This project demonstrated how SQL filtering can narrow large datasets to relevant records and support security investigations by identifying suspicious login activity and specific employee groups.
