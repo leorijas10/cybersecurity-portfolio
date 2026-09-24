@@ -74,7 +74,7 @@ permissions in Linux using `chmod`, `ls -l`, and `ls -la`.
 
 - ###SQL Filtering for Security Investigations
 
-Applied SQL filtering techniques to investigate security-related data in the "log_in_attempts" and "employees" tables.
+### Applied SQL filtering techniques to investigate security-related data in the "log_in_attempts" and "employees" tables.
 
 ### Skills Demonstrated
 
