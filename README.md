@@ -72,6 +72,33 @@ permissions in Linux using `chmod`, `ls -l`, and `ls -la`.
 - Understanding of Linux permission strings (rwx, owner/group/other)
 - Principle of least privilege
 
+- ###SQL Filtering for Security Investigations
+
+Applied SQL filtering techniques to investigate security-related data in the "log_in_attempts" and "employees" tables.
+
+###Skills Demonstrated
+
+- Used "AND" to filter records meeting multiple conditions.
+- Used "OR" to search for records matching multiple possible conditions.
+- Used "NOT" to exclude specific results.
+- Used "LIKE" with wildcards to match patterns such as countries and office locations.
+- Used comparison operators to identify after-hours failed login attempts.
+- Filtered employee records by department and office location.
+
+###Security Investigation Examples
+
+- Identified failed login attempts after business hours.
+- Retrieved login attempts from specific dates related to a suspicious event.
+- Identified login attempts originating outside Mexico.
+- Filtered employees by department and office location.
+- Identified employees outside the Information Technology department.
+
+
+
+This project demonstrated how SQL filtering can narrow large datasets to relevant records and support security investigations by identifying suspicious login activity and specific employee groups.
+
+
+
 
 ## Certifications & Learning
 
